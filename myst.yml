@@ -1,0 +1,16 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: ce6c69c1-2a76-4f9a-81f0-70058962094a
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/sampottinger/myst-exercise
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  options:
+    logo_text: "The Malleability of Computation"
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
