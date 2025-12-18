@@ -12,7 +12,7 @@ export:
 Hello AGU 25 world! (Thanks Fernando!)
 
 $$
-1 + 1 = 2
+\alpha = \frac{2\pi}{\phi}
 $$
 
 {term}`Term` roles create inline references, within your Markdown text, to glossary definitions.
